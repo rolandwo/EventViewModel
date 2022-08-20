@@ -3,7 +3,6 @@ plugins {
 }
 
 android {
-    namespace = 'com.rolandwo.eventviewmodel'
 
     compileSdk 32
 
